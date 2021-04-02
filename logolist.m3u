@@ -3,7 +3,7 @@
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="日本全天新闻" tvg-logo="https://choate123.github.io/tv/ntv.jpeg" group-title="地方",日本全天新闻
+#EXTINF:-1 tvg-id="87" tvg-name="日本全天新闻" tvg-logo="https://choate123.github.io/tv/ntv.jpeg" group-title="地方",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
@@ -47,9 +47,9 @@ http://39.135.253.37/PLTV/88888888/224/3221230173/index.m3u8
 http://39.135.253.45/PLTV/88888888/224/3221230080/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://39.135.253.5/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="福建综合" tvg-logo="https://choate123.github.io/tv/zonghe.png" group-title="地方",福建综合
+#EXTINF:-1 tvg-id="88" tvg-name="福建综合" tvg-logo="https://choate123.github.io/tv/zonghe.png" group-title="地方",福建综合
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.jpeg" group-title="地方",海峡卫视
+#EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.jpeg" group-title="地方",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/index.m3u8
