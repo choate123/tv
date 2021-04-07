@@ -11,7 +11,7 @@ CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8
 CCTV6,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
 CCTV8,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+CCTV9,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 CCTV10,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225704/index.m3u8
 CCTV11,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 CCTV12,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
@@ -52,6 +52,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
+IPTV经典电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+北京影视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
 
 
 
