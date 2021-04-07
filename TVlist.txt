@@ -52,8 +52,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
-IPTV经典电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-北京影视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京IPTV,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+
 
 
 
