@@ -17,6 +17,19 @@ http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-
 http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/sctv-3/index.m3u8?IAS
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",四川康巴卫视 
 http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kamba-tv/index.m3u8?IAS
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
+http://live.826pc.com/cdtv/live.php?id=1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方台",经济资讯
+http://live.826pc.com/cdtv/live.php?id=2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方台",都市生活
+http://live.826pc.com/cdtv/live.php?id=3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方台",成都公共
+http://live.826pc.com/cdtv/live.php?id=5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方台",成都少儿
+http://live.826pc.com/cdtv/live.php?id=6
+
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -111,7 +124,7 @@ https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="2066" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
+#EXTINF:-1 tvg-id="2066" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -121,3 +134,5 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" group-title="地方",邵氏电影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
