@@ -128,5 +128,4 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-id="6247" tvg-name="邵氏电影" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" group-title="地方",邵氏电影
-http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+
