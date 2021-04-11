@@ -50,7 +50,7 @@ CCTV17,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京IPTV,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 
 
