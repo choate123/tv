@@ -99,4 +99,5 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",峨嵋电影频道
+http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
