@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
+http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
+
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -7,6 +19,8 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.jpeg" group-title="地方",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -39,6 +53,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
+
+
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -95,14 +111,5 @@ http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="2066" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
-http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
-http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
+
 
