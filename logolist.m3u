@@ -5,7 +5,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="83" tvg-name="北京IPTV" tvg-logo="https://choate123.github.io/tv/bjiptv.jpeg" group-title="地方",北京IPTV
+#EXTINF:-1 tvg-id="83" tvg-name="北京淘电影" tvg-logo="https://choate123.github.io/tv/taodianying.jpg" group-title="地方",北京淘电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
 http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
@@ -17,7 +17,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="日本全天新闻" tvg-logo="https://choate123.github.io/tv/ntv.jpeg" group-title="地方",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.jpeg" group-title="地方",海峡卫视
+#EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.png" group-title="地方",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 
 
