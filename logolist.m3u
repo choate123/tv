@@ -111,5 +111,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 
 
