@@ -17,7 +17,7 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="日本全天新闻" tvg-logo="https://choate123.github.io/tv/ntv.png" group-title="新闻",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/hxtv.png" group-title="新闻",海峡卫视
+#EXTINF:-1 tvg-id="89" tvg-name="海峡卫视" tvg-logo="https://choate123.github.io/tv/haixia.png" group-title="新闻",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 
 
