@@ -9,10 +9,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomai
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="电影",四川峨嵋电影
 http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
-#EXTINF:-1 tvg-id="84" tvg-name="黑莓电影" tvg-logo="https://choate123.github.io/tv/heimeidy.png" group-title="电影",黑莓电影
-http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdianying/index.m3u8?IAS
-#EXTINF:-1 tvg-id="86" tvg-name="黑莓动画" tvg-logo="https://choate123.github.io/tv/heimeidh.png" group-title="电影",黑莓动画
-http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/donghuawg/index.m3u8?IAS
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
