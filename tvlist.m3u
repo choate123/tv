@@ -7,6 +7,10 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV6
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6247" tvg-name="" tvg-logo="" group-title="未分类",CBN每日影院
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000214.m3u8&ts=50&auth=no
+#EXTINF:-1 tvg-id="6248" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
+http://39.135.138.8:6610/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
@@ -59,6 +63,8 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225907/2/index.m3u8?fmt=ts2hls
 
 
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1
+http://39.135.138.8:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://39.135.138.8:6610/PLTV/88888888/224/3221225657/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
