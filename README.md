@@ -1,2 +1,3 @@
-## 自用，断续更新
-# 20210428  组建电影，新闻，四川，央视，卫视合集 
+## Personal use, intermittent update
+# 20210428 Form a collection of movies, news, Sichuan, CCTV, and satellite TV
+# 20210615 The previous Sichuan version is invalid, and the Jiangxi Yichun version is adopted
