@@ -58,58 +58,6 @@ http://58.200.190.80/hls/hls184a573.m3u8
 #EXTINF:-1 ,CCTV 央视台球 
 http://58.200.190.80/hls/hls184a574.m3u8
 
-#EXTINF:-1 ,CHC 家庭影院 
-http://58.200.190.80/hls/hls259.m3u8
-#EXTINF:-1 ,CHC 电影 
-http://58.200.190.80/hls/hls260.m3u8
-#EXTINF:-1 ,CHC 动作电影 
-http://58.200.190.80/hls/hls261.m3u8
-
-#EXTINF:-1 ,湖南卫视 
-http://58.200.190.80/hls/hls71a15.m3u8
-#EXTINF:-1 ,浙江卫视 
-http://58.200.190.80/hls/hls68a51.m3u8
-#EXTINF:-1 ,东方卫视 
-http://58.200.190.80/hls/hls69a24.m3u8
-#EXTINF:-1 ,江苏卫视 
-http://58.200.190.80/hls/hls68a52.m3u8
-#EXTINF:-1 ,北京卫视 
-http://58.200.190.80/hls/hls69a21.m3u8
-#EXTINF:-1 ,安徽卫视 
-http://58.200.190.80/hls/hls71a16.m3u8
-#EXTINF:-1 ,深圳卫视 
-http://58.200.190.80/hls/hls70a20.m3u8
-#EXTINF:-1 ,辽宁卫视 
-http://58.200.190.80/hls/hls185a393.m3u8
-#EXTINF:-1 ,贵州卫视 
-http://58.200.190.80/hls/hls186a71.m3u8
-#EXTINF:-1 ,吉林卫视 
-http://58.200.190.80/hls/hls186a72.m3u8
-#EXTINF:-1 ,黑龙江卫视 
-http://58.200.190.80/hls/hls71a14.m3u8
-#EXTINF:-1 ,天津卫视 
-http://58.200.190.80/hls/hls69a22.m3u8
-#EXTINF:-1 ,重庆卫视 
-http://58.200.190.80/hls/hls68a41.m3u8
-#EXTINF:-1 ,湖北卫视 
-http://58.200.190.80/hls/hls70a17.m3u8
-#EXTINF:-1 ,山东卫视 
-http://58.200.190.80/hls/hls70a18.m3u8
-#EXTINF:-1 ,广东卫视 
-http://58.200.190.80/hls/hls70a19.m3u8
-#EXTINF:-1 ,四川卫视 
-http://58.200.190.80/hls/hls67a42.m3u8
-#EXTINF:-1 ,东南卫视 
-http://58.200.190.80/hls/hls77a55.m3u8
-#EXTINF:-1 ,海南卫视 
-http://58.200.190.80/hls/hls77a74.m3u8
-#EXTINF:-1 ,河北卫视 
-http://58.200.190.80/hls/jlu_hbhd1.m3u8
-#EXTINF:-1 ,江西卫视 
-http://58.200.190.80/hls/jxhd.m3u8
-#EXTINF:-1 ,广西卫视 
-http://58.200.190.80/hls/gxhd.m3u8
-
 #EXTINF:-1 ,辽宁经济 
 http://58.200.190.80/hls/hls185a540.m3u8
 #EXTINF:-1 ,辽宁公共 
