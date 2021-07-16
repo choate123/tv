@@ -125,11 +125,11 @@ http://58.200.190.80/hls/hls185a95.m3u8
 #EXTINF:-1 ,欢笑剧场 
 http://58.200.190.80/hls/hls185a97.m3u8
 
-#EXTINF:-1 ,CCTV-4K 4K超高清
+#EXTINF:-1 ,CCTV-4K 
 http://112.17.40.241/PLTV/88888888/224/3221229683/index.m3u8
-#EXTINF:-1 ,甘肃都市 高清
+#EXTINF:-1 ,甘肃都市 
 http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,黑莓电影 高清
+#EXTINF:-1 ,黑莓电影 
 http://39.135.138.9:6610/PLTV/88888888/224/3221225718/2/index.m3u8
-#EXTINF:-1 ,东方影视 高清
+#EXTINF:-1 ,东方影视 
 http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
