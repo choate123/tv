@@ -1,0 +1,96 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV-1 综合 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227634/index.m3u8
+#EXTINF:-1 ,CCTV-2 经济 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227696/index.m3u8
+#EXTINF:-1 ,CCTV-3 综艺 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227546/index.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227658/index.m3u8
+#EXTINF:-1 ,CCTV-5 体育 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227686/index.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227685/index.m3u8
+#EXTINF:-1 ,CCTV-6 电影 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227664/index.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227690/index.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227667/index.m3u8
+#EXTINF:-1 ,CCTV-9 记录 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227614/index.m3u8
+#EXTINF:-1 ,CCTV-10 科教 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227620/index.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227720/index.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227637/index.m3u8
+#EXTINF:-1 ,CCTV-13 新闻 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227387/index.m3u8
+#EXTINF:-1 ,CCTV-14 少儿 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227693/index.m3u8
+#EXTINF:-1 ,CCTV-15 音乐 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227538/index.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227726/index.m3u8
+
+#EXTINF:-1 ,凤凰资讯 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰中文 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221228057/index.m3u8
+#EXTINF:-1 ,凤凰香港 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221228060/index.m3u8
+
+#EXTINF:-1 ,北京卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227652/index.m3u8
+#EXTINF:-1 ,冬奥纪实 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227711/index.m3u8
+#EXTINF:-1 ,纪实人文 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227635/index.m3u8
+#EXTINF:-1 ,安徽卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227653/index.m3u8
+#EXTINF:-1 ,东方卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227688/index.m3u8
+#EXTINF:-1 ,东南卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227670/index.m3u8
+#EXTINF:-1 ,广东卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227445/index.m3u8
+#EXTINF:-1 ,江苏卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221228099/index.m3u8
+#EXTINF:-1 ,江西卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227738/index.m3u8
+#EXTINF:-1 ,辽宁卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227676/index.m3u8
+#EXTINF:-1 ,山东卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227258/index.m3u8
+#EXTINF:-1 ,深圳卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227677/index.m3u8
+#EXTINF:-1 ,天津卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227741/index.m3u8
+#EXTINF:-1 ,浙江卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227483/index.m3u8
+#EXTINF:-1 ,湖北卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227665/index.m3u8
+#EXTINF:-1 ,湖南卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227735/index.m3u8
+#EXTINF:-1 ,黑龙江卫视 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227638/index.m3u8
+
+
+#EXTINF:-1 ,黑莓电影 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221225567/index.m3u8
+#EXTINF:-1 ,黑莓动画 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227523/index.m3u8
+#EXTINF:-1 ,动漫秀场 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227774/index.m3u8
+#EXTINF:-1 ,都市剧场 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227710/index.m3u8
+#EXTINF:-1 ,全纪实 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227771/index.m3u8
+#EXTINF:-1 ,陶瓷频道 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227768/index.m3u8
+#EXTINF:-1 ,欢笑剧场 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227715/index.m3u8
+#EXTINF:-1 ,4K花园 
+http://ott.js.chinamobile.com/TVOD/88888888/224/3221227749/index.m3u8
