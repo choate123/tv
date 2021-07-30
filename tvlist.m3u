@@ -123,19 +123,19 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",SiTV全纪实 
 http://117.136.154.72/PLTV/88888888/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV动漫秀场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",SiTV动漫秀场 
 http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",SiTV游戏风云 
 http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",SiTV生活时尚 
 http://117.136.154.74/PLTV/88888888/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV都市剧场 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",SiTV都市剧场 
 http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SiTV欢笑剧场 
 http://117.136.154.98/PLTV/88888888/224/3221225822/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文 
 http://117.136.154.98/PLTV/88888888/224/3221225695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓动画 
 http://117.136.154.98/PLTV/88888888/224/3221225578/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓电影 
 http://117.136.154.86/PLTV/88888888/224/3221225557/index.m3u8
