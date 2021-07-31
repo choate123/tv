@@ -139,3 +139,5 @@ http://117.136.154.98/PLTV/88888888/224/3221225695/index.m3u8
 http://117.136.154.98/PLTV/88888888/224/3221225578/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓电影 
 http://117.136.154.86/PLTV/88888888/224/3221225557/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="圆点",圆点生活
+http://111.20.105.60:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
